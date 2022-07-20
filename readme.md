@@ -1,4 +1,4 @@
-# NASA_Nearest_Earth_Object
+# NASA_Nearest_Earth_Object_Classifier
 
 ![NASA_Nearest_Earth_Object](https://cdn.mos.cms.futurecdn.net/v5n22xGyNNHLzSnSArbrVH-1200-80.jpg)
 
