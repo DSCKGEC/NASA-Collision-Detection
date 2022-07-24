@@ -1,4 +1,4 @@
-# NASA_Nearest_Earth_Object_Classifier
+# NASA-Collision-Detection
 
 ![NASA_Nearest_Earth_Object](https://cdn.mos.cms.futurecdn.net/v5n22xGyNNHLzSnSArbrVH-1200-80.jpg)
 
@@ -16,7 +16,7 @@ There is an infinite number of objects in the outer space. Some of them are clos
 
 ```
   ├── Transaction/        
-  ├── scraping Nasa_nearest_object_decision_tree.ipynb             Notebook for Scraping the website
+  ├── scraping Nasa_nearest_classifier.ipynb             Notebook for Scraping the website
   ├── Nearest Earth neo.csv                                      Original Dataset about Nearest Earth Objects
 ```
 ## Getting started
