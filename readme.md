@@ -16,7 +16,7 @@ There is an infinite number of objects in the outer space. Some of them are clos
 
 ```
   ├── Transaction/        
-  ├── scraping Nasa_nearest_classifier.ipynb             Notebook for Scraping the website
+  ├── scraping Nasa_nearest_earth_object_classifier.ipynb             Notebook for Scraping the website
   ├── Nearest Earth neo.csv                                      Original Dataset about Nearest Earth Objects
 ```
 ## Getting started
